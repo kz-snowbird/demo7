@@ -5,7 +5,8 @@
 			"taskTitle": "Do stuff"
 		},
 		{
-			"done": false
+			"done": false,
+			"taskTitle": "t"
 		}
 	]
 }
